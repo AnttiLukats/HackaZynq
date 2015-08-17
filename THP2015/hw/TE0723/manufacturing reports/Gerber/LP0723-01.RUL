@@ -1,0 +1,12 @@
+DRC Rules Export File for PCB: B:\svn\osh\Arduino\TE0723\current\hw\pcb\TE0723.PcbDoc
+RuleKind=Width|RuleName=Width_All_Differential_Pairs|Scope=Board|Minimum=3.74
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Logo|Scope=Board|Minimum=0.04
+RuleKind=Width|RuleName=All|Scope=Board|Minimum=2.95
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_Via|Scope=Board|Minimum=-4.92
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing_MicroVia|Scope=Board|Minimum=4.88
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=4.72
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance_RAM|Scope=Board|Minimum=3.15
+RuleKind=Clearance|RuleName=Clearance_topbotPoly|Scope=Board|Minimum=7.87

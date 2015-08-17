@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: TE0723.PcbDoc   7/8/2015  11:00:42 AM
+---------------------------------------------------------------------------
+
+Layer Pair : L 01 to L 08
+ASCII RoundHoles File : LP0723-01.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.2mm (7.874mil)         Round          526              990.56 mm (39.00 Inch)
+T2        1mm (39.37mil)           Round          42               259.95 mm (10.23 Inch)
+T3        3.2mm (125.984mil)       Round          4         NPTH   137.87 mm (5.43 Inch)
+---------------------------------------------------------------------------
+Totals                                            572              1388.38 mm (54.66 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

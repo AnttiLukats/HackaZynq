@@ -1,0 +1,10 @@
+Output: TE0723-01
+Type  : ExportSTEP
+From  : PCB Document [TE0723.PcbDoc]
+   Generated File[TE0723-01.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:01:03 AM On 7/8/2015
