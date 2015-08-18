@@ -1,0 +1,1 @@
+call C:\\Xilinx\\SDK\\2015.2\\.\\bin\\zynq_flash.bat -f BOOT.bin -flash_type qspi_single
